@@ -1,0 +1,50 @@
+[
+    {
+        "ingredientName_Original": "Salt",
+        "ingredientId": 2047,
+        "FridgeorPantry": "Fridge",
+        "ingredientName_Combined": "Salt",
+        "Ingredient_Category": "Condiment",
+        "Avg_Expiration_Date": 365
+    },
+    {
+        "ingredientName_Original": "Olive Oil",
+        "ingredientId": 4053,
+        "FridgeorPantry": "Pantry",
+        "ingredientName_Combined": "Olive-Oil",
+        "Ingredient_Category": "Cooking Oil",
+        "Avg_Expiration_Date": 730
+    },
+    {
+        "ingredientName_Original": "Butter",
+        "ingredientId": 1001,
+        "FridgeorPantry": "Fridge",
+        "ingredientName_Combined": "Butter",
+        "Ingredient_Category": "Dairy",
+        "Avg_Expiration_Date": 30
+    },
+    {
+        "ingredientName_Original": "Sugar",
+        "ingredientId": 19335,
+        "FridgeorPantry": "Pantry",
+        "ingredientName_Combined": "Sugar",
+        "Ingredient_Category": "Baking Ingredient",
+        "Avg_Expiration_Date": 365
+    },
+    {
+        "ingredientName_Original": "Water",
+        "ingredientId": 14412,
+        "FridgeorPantry": "Fridge",
+        "ingredientName_Combined": "Water",
+        "Ingredient_Category": "Beverage",
+        "Avg_Expiration_Date": 2
+    },
+    {
+        "ingredientName_Original": "Flour",
+        "ingredientId": 20081,
+        "FridgeorPantry": "Pantry",
+        "ingredientName_Combined": "Flour",
+        "Ingredient_Category": "Baking Ingredient",
+        "Avg_Expiration_Date": 365
+    }
+]
